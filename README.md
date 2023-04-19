@@ -1,8 +1,8 @@
 ### Hi there 👋
+![MATEO CATALANO](https://user-images.githubusercontent.com/100876278/233172160-0a96c0e2-18ad-414a-b8c6-6a2a142f6475.png)
 
 <!--
 **MateoCata98/MateoCata98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![MATEO CATALANO](https://user-images.githubusercontent.com/100876278/233172160-0a96c0e2-18ad-414a-b8c6-6a2a142f6475.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
