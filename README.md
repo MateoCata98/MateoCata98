@@ -25,7 +25,7 @@
 
 <h3 align="left">Documentation:</h3>
 <p align="left"> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer" width="40" height="40">![swagger-logo](https://user-images.githubusercontent.com/100876278/233182871-047eae6c-3235-4009-b199-75dc3f1ff9cb.png)</a> </p>
+<a href="https://postman.com" target="_blank" rel="noreferrer" width="40" height="40"><image>![swagger-logo](https://user-images.githubusercontent.com/100876278/233182871-047eae6c-3235-4009-b199-75dc3f1ff9cb.png)</image></a> </p>
 
 
 
