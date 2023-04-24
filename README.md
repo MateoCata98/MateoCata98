@@ -22,11 +22,12 @@
 
 <p align="center"> 📍 Ciudad: Santa Fe Capital - Argentina  👉 Linkedin: https://www.linkedin.com/in/mateo-catalano </p>
 
+<!--
 ![MATEO CATALANO](https://user-images.githubusercontent.com/100876278/233187595-7121ee63-36ac-4676-967b-ff4733a5ec3d.png)
 
 
 
-<!--
+
 **MateoCata98/MateoCata98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
