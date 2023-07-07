@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Bienvenidos a mi perfil!</h1>
 
-<p align="center">Me llamo Mateo Catalano, tengo 25 años, soy desarrollador Web Full Stack Jr con afinidad por el front. 💻☕
+<p align="center">Me llamo Mateo Catalano, tengo 25 años, soy desarrollador Web Full Stack.💻☕
 </p>
 
 <h3 align="center">Lenguajes de programación</h3>
