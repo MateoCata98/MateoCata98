@@ -1,7 +1,4 @@
-<h1 align="center">Hola 👋, Bienvenidos a mi perfil!</h1>
 
-<p align="center">Me llamo Mateo Catalano, tengo 25 años, soy desarrollador Web Full Stack.💻☕
-</p>
 
 <h3 align="center">Lenguajes de programación</h3>
 <p align="center">
@@ -20,13 +17,16 @@
 <p align="center"><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-<p align="center"> 📍 Ciudad: Santa Fe Capital - Argentina  👉 Linkedin: https://www.linkedin.com/in/mateo-catalano </p>
+
 
 <!--
 ![MATEO CATALANO](https://user-images.githubusercontent.com/100876278/233187595-7121ee63-36ac-4676-967b-ff4733a5ec3d.png)
 
+<h1 align="center">Hola 👋, Bienvenidos a mi perfil!</h1>
 
-
+<p align="center">Me llamo Mateo Catalano, tengo 25 años, soy desarrollador Web Full Stack.💻☕
+</p>
+<p align="center"> 📍 Ciudad: Santa Fe Capital - Argentina  👉 Linkedin: https://www.linkedin.com/in/mateo-catalano </p>
 
 **MateoCata98/MateoCata98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
